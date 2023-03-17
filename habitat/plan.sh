@@ -7,7 +7,7 @@
 # where the package is installed to on disk, how it is referred to in package
 # metadata, and so on.
 pkg_name=sample-node-app-new
-
+#testcommand
 # Required unless overridden by the `HAB_ORIGIN` environment variable.
 # The origin is used to denote a particular upstream of a package.
 pkg_origin=nashwini
